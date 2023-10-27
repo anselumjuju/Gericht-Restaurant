@@ -5,7 +5,8 @@ A fully responsive beautiful and simple lending made for restaurants, written on
 ## Tech Stack
 
 - **React JS**
-- CSS3
+- **CSS**
+- **Javascript**
 
 ## Screenshots
 
